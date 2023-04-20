@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="15px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon / mail</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M28,24.667 L4,24.667 C3.448,24.667 3,24.218 3,23.667 L3,9.214 L15.375,19.114 C15.558,19.26 15.779,19.334 16,19.334 C16.221,19.334 16.442,19.26 16.625,19.114 L29,9.214 L29,23.667 C29,24.218 28.552,24.667 28,24.667 Z M27.315,8 L16,17.053 L4.685,8 L27.315,8 Z M28,6 L4,6 C2.346,6 1,7.346 1,9 L1,23.667 C1,25.321 2.346,26.667 4,26.667 L28,26.667 C29.654,26.667 31,25.321 31,23.667 L31,9 C31,7.346 29.654,6 28,6 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-/-mail">
+            <rect id="fill" x="0" y="0" width="32" height="32"></rect>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="shape" fill="#020303" xlink:href="#path-1"></use>
+            <g id="colors-/-grey-/-grey" mask="url(#mask-2)" fill="#0059e4">
+                <rect id="color" x="0" y="0" width="32" height="32"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

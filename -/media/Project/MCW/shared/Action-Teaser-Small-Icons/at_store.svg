@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>at_store</title>
+    <g id="at_store" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2-Copy-5">
+            <g id="mailbox-3-copy-4">
+                <path d="M48,0 L48,48 L0,48 L0,0 L48,0 Z" id="Invisible_Shape"></path>
+            </g>
+            <g id="Outline_Icons-Copy" transform="translate(0.750000, 3.750000)">
+                <path d="M42.0001221,15.6760254 L42.0001221,40.0000248 L4.00012207,40.0000248 L4.00012207,15.6760254" id="Path" stroke="#002D72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,0"></path>
+                <path d="M23.9998779,22.0001221 L23.9998779,34.0001221 L7.99987793,34.0001221 L7.99987793,22.0001221 L23.9998779,22.0001221 Z" id="Path" stroke="#002D72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,0"></path>
+                <path d="M38.0001221,22.0001221 L38.0001221,40.0001221 L28.0001221,40.0001221 L28.0001221,22.0001221 L38.0001221,22.0001221 Z" id="Path" stroke="#002D72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,0"></path>
+                <path d="M4,0 L0,8 L46,8 L42,0 L4,0 Z" id="Path" stroke="#002D72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,0"></path>
+                <path d="M36,13.9998779 C33.0919999,18.6198778 26.6839997,19.4598781 23,15.2798781 C19.2759994,19.5138781 12.8699997,18.5558778 10,13.9998779 C5.57199991,18.4118779 0,14.6538779 0,9.99987793 L0,7.99987793 L46,7.99987793 L46,9.99987793 C46,14.603878 40.48,18.4558779 36,13.9998779 Z" id="Path" stroke="#002D72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,0"></path>
+                <path d="M10.0001221,14 L10.0001221,8 L12.0001221,0" id="Path" stroke="#002D72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,0"></path>
+                <line x1="23.0001221" y1="15.2920003" x2="23.0001221" y2="0" id="Path" stroke="#002D72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,0"></line>
+                <path d="M36.0001221,14 L36.0001221,8 L34.0001221,0" id="Path" stroke="#002D72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,0"></path>
+                <path d="M33,32.0001221 C33,32.5524069 33.4477153,33.0001221 34,33.0001221 C34.5522848,33.0001221 35,32.5524069 35,32.0001221 C35,31.4478373 34.5522848,31.0001221 34,31.0001221 C33.4477153,31.0001221 33,31.4478373 33,32.0001221 Z" id="Path" fill="#002D72" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>at_catalogues</title>
+    <g id="at_catalogues" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3-Copy-4">
+            <g id="mailbox-3-copy-4">
+                <path d="M48,0 L48,48 L0,48 L0,0 L48,0 Z" id="Invisible_Shape"></path>
+            </g>
+            <g id="Group-Copy" transform="translate(2.250000, 3.750000)" stroke="#002D72" stroke-dasharray="0,0" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5">
+                <path d="M44,0 L44,33 C32.296001,33 22,36.131999 22,40 C22,36.131999 11.7020001,33 0,33 L0,0 C11.7020001,0 22,3.13199973 22,7 C22,3.13199973 32.296001,0 44,0 Z" id="Path"></path>
+                <line x1="22" y1="7.00012207" x2="22" y2="39.750123" id="Path"></line>
+            </g>
+        </g>
+    </g>
+</svg>

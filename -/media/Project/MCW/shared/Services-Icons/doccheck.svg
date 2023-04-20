@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>doccheck</title>
+    <g id="doccheck" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Group-44" transform="translate(8.000000, 8.000000)" stroke="#0064FE" stroke-width="1.5">
+            <path d="M48,35.4782609 C48,42.3965217 42.3944348,48 35.4782609,48 C28.562087,48 22.9565217,42.3965217 22.9565217,35.4782609 C22.9565217,28.562087 28.562087,22.9565217 35.4782609,22.9565217 C42.3944348,22.9565217 48,28.562087 48,35.4782609 L48,35.4782609 Z" id="Stroke-860"></path>
+            <polyline id="Stroke-861" points="41.7391304 31.3043478 33.3913043 39.6521739 29.2173913 35.4782609"></polyline>
+            <line x1="6.26086957" y1="12.5217391" x2="15.6521739" y2="12.5217391" id="Stroke-862"></line>
+            <line x1="6.26086957" y1="18.7826087" x2="22.9565217" y2="18.7826087" id="Stroke-863"></line>
+            <line x1="6.26086957" y1="25.0434783" x2="18.7826087" y2="25.0434783" id="Stroke-864"></line>
+            <line x1="6.26086957" y1="31.3043478" x2="16.6956522" y2="31.3043478" id="Stroke-865"></line>
+            <polyline id="Stroke-866" points="20.8695652 43.826087 0 43.826087 0 0 22.9565217 0 33.3913043 10.4347826 33.3913043 18.7826087"></polyline>
+            <polyline id="Stroke-867" points="22.9565217 0 22.9565217 10.4347826 33.3913043 10.4347826"></polyline>
+        </g>
+    </g>
+</svg>

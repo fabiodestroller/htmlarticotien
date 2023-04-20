@@ -1,0 +1,14 @@
+<svg width="60px" height="72px" viewBox="0 0 60 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="COMPONENTS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="COMPONENT_Teasers_Category_EXAMPLE" transform="translate(-510.000000, -178.000000)" stroke="#0064FE" stroke-width="2">
+            <g id="Group-1149" transform="translate(510.000000, 178.000000)">
+                <path d="M30,67.5 C34.5,67.5 31.5,70.5 40.5,70.5 C49.5,70.5 58.5,52.5 58.5,40.5 C58.5,28.5 51,19.5 42,19.5 C33,19.5 33,22.5 30,22.5 C27,22.5 27,19.5 18,19.5 C9,19.5 1.5,28.5 1.5,40.5 C1.5,52.5 10.5,70.5 19.5,70.5 C28.5,70.5 25.5,67.5 30,67.5 L30,67.5 Z" id="Stroke-705"></path>
+                <path d="M30,22.5 L30,16.5 C30,13.2 27.3,10.5 24,10.5 L18,10.5" id="Stroke-706" stroke-linecap="round"></path>
+                <path d="M36,15 C43.455,15 49.5,8.958 49.5,1.5 C42.045,1.5 36,7.548 36,15 L36,15 Z" id="Stroke-707"></path>
+            </g>
+        </g>
+    </g>
+</svg>
